@@ -20,25 +20,28 @@
 ## Experience
 
 ### Jr. Software Developer
-**Digital Savers Pvt. Ltd.** (July 2023 – June 2024)
-- Contributed to frontend and backend architecture development.
-- Participated in requirements gathering and team meetings.
-- Demonstrated effective problem-solving skills.
+### Digital Savers Pvt. Ltd.  
+**April 2023 – Sep 2023 (Internship)**  
+**Oct 2023 – Dec 2024 (On-roll)**  
+
+#### Roles and Responsibilities:  
+- **Web & App Designing & Development**  
+  - Contributed to both frontend and backend development using the MERN stack.  
+
+- **WordPress Development (Customized)**  
+  - Implemented innovative solutions, ensuring seamless content delivery tailored to client requirements.  
 
 ### MERN Stack Developer
 **Edtech Savers IT Training Institute** (Aug 2022 – Jan 2023)
 - Acquired hands-on project experience.
 - Focused on crafting innovative and creative solutions.
 
-### WordPress Developer
-**Digital Savers Pvt. Ltd.** (April 2023 – April 2024)
-- Implemented innovative solutions for seamless content delivery and management.
 
 ## Achievements
 
-- Made 5+ Projects in Web Development using different Web Technologies.
+- Made 15+ Projects in Web Development using different Web Technologies.
 - Selected for Digital Savers Internship on MERN Stack Domain.
-- Developed free websites for Khargone development like [gharaseva.co.in](http://gharaseva.co.in).
+- Developed free websites for Khargone development like [gharsewa.in](http://gharsewa.in).
 
 ## Education
 
@@ -56,19 +59,31 @@
 - **Company Project**
 - Analyzing and optimizing cash and fund flow in the government sector.
 - MERN-Stack Development.
+- https://govcashflowinsights.netlify.app/
+
 
 ### E-commerce Application
 - Developed a responsive e-commerce platform with user authentication, payment gateway, and order management.
 - MERN-Stack Development.
+- https://ecommerce-mern-application-1.onrender.com
 
 ### Institute Management System (IMS)
 - Created an education portal with course materials and videos.
 - MERN-Stack Development.
 
 ### Live Projects
-- **[gharaseva.co.in](http://gharaseva.co.in)**: Tailored digital services for home care needs.
-- **[pradanam.com](http://pradanam.com)**: Interface for Pradanam Microfinance Foundation Ltd.
-- **[utsavwale.in](http://utsavwale.in)**: Innovative event planning website.
+- **[gharsewa.in](https://gharsewa.in/)**: Tailored digital services for home care needs.
+- **[pradanam.com](https://pradanam.com)**: Interface for Pradanam Microfinance Foundation Ltd.
+- **[terraglebe.com](https://terraglebe.com)**:  Interface for Terraglebe to
+showcase organic product info and
+processes, improving accessibility.
+- **[sevabharatikhargone.org](https://sevabharatikhargone.org)**:  Developed
+Interface, Payment Gateway
+- **[edtechsavers.in](https://edtechsavers.in)**:  Website for an IT training institute offering a variety of courses and learning solutions.
+-  **[sgtech.edtechsavers.in](https://sgtech.edtechsavers.in)**: Personal portfolio website showcasing IT products, services, mini projects, and graphic design expertise.
+
+
+
 
 ## Connect with Me
 
